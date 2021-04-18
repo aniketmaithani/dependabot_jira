@@ -5,7 +5,7 @@ on:
     types:
       - opened
     branches:
-      - test-integration
+      - master
 
 env:
   JIRA_BASE_URL: #Jira URL
